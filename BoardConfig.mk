@@ -5,16 +5,16 @@
 #
 
 # Inherit from the proprietary version
-include vendor/xiaomi/miuicamera-miatoll/BoardConfigVendor.mk
+include vendor/xiaomi/leicacamera_miatoll/BoardConfigVendor.mk
 
-MIUICAMERA_PATH := device/xiaomi/miuicamera-miatoll
+LEICACAMERA_PATH := device/xiaomi/leicacamera_miatoll
 
 # Malloc
 MALLOC_SVELTE := true
 
 # Properties
-TARGET_SYSTEM_PROP += $(MIUICAMERA_PATH)/system.prop
+TARGET_SYSTEM_PROP += $(LEICACAMERA_PATH)/system.prop
 
 # Sepolicy
-SYSTEM_EXT_PRIVATE_SEPOLICY_DIRS += $(MIUICAMERA_PATH)/sepolicy/private
-BOARD_VENDOR_SEPOLICY_DIRS += $(MIUICAMERA_PATH)/sepolicy/vendor
+SYSTEM_EXT_PRIVATE_SEPOLICY_DIRS += $(LEICACAMERA_PATH)/sepolicy/private
+BOARD_VENDOR_SEPOLICY_DIRS += $(LEICACAMERA_PATH)/sepolicy/vendor

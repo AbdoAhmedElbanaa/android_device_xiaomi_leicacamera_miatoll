@@ -11,7 +11,7 @@ ro.miui.ui.version.code=816
 ro.miui.ui.version.name=V816
 
 # Low RAM optimization
-ro.config.low_ram.threshold_gb=4
+ro.config.low_ram.threshold_gb=6
 
 # Privapp permissions logging (prevent bootloop on permission denial)
 ro.control_privapp_permissions=log
