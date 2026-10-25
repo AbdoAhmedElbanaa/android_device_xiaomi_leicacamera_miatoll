@@ -2,6 +2,10 @@
 
 Device configuration for Xiaomi Leica Camera (MIUI Camera v5) port for **Xiaomi Miatoll** (`curtana`, `gram`, `joyeuse`, `excalibur`). Compatible with LineageOS, RisingOS, crDroid, and AOSP custom ROMs (Android 14 / 15 / 16 / 17).
 
+## Credits
+- **Camera Port & Builds:** [ℌ𝔞𝔪𝔦𝔡𝔬](https://github.com/Hamido)
+- **Maintainer:** [Abdo Ahmed Elbanaa](https://github.com/AbdoAhmedElbanaa)
+
 ## Features
 - Full Leica Camera v5.0 with Leica Authentic and Leica Vibrant colour profiles
 - Parallel Processing support
@@ -17,7 +21,7 @@ Device configuration for Xiaomi Leica Camera (MIUI Camera v5) port for **Xiaomi 
 git clone https://github.com/AbdoAhmedElbanaa/android_device_xiaomi_leicacamera_miatoll device/xiaomi/leicacamera_miatoll
 ```
 
-2. Clone or extract the corresponding vendor repository into:
+2. Clone the corresponding vendor repository into:
 ```bash
 vendor/xiaomi/leicacamera_miatoll
 ```
