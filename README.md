@@ -9,7 +9,7 @@ Device configuration for Xiaomi Leica Camera (MIUI Camera v5.0 Build 7.3) port f
 - **Version:** Leica Camera v5.0
 - **Build Version:** Beta 7.3
 - **Target OS:** Android 16 & Android 17 (A16 / A17 Only)
-- **Camera Port & Builds:** [ℌ𝔞𝔪𝔦𝔡𝔬](https://github.com/Hamido)
+- **Camera Port & Builds:** [ℌ𝔞𝔪𝔦𝔡𝔬]
 - **Maintainer:** [Abdo Ahmed Elbanaa](https://github.com/AbdoAhmedElbanaa)
 
 ## Features
