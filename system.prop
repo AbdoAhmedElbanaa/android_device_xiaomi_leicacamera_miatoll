@@ -2,8 +2,8 @@
 ro.com.google.lens.oem_camera_package=com.android.camera
 
 # Framework allowlists
-vendor.camera.aux.packagelist=com.android.camera
-persist.vendor.camera.privapp.list=com.android.camera
+vendor.camera.aux.packagelist=org.codeaurora.snapcam,com.android.camera,org.lineageos.snap,org.lineageos.aperture
+persist.vendor.camera.privapp.list=org.codeaurora.snapcam,com.android.camera,org.lineageos.snap,org.lineageos.aperture
 
 # MiuiCamera / Leica
 ro.miui.notch=1
